@@ -1,0 +1,20 @@
+{
+     "routes": [
+          {
+               "src": "/",
+               "dest": "/"
+          },
+          {
+               "src": "/blog",
+               "dest": "/"
+          },
+          {
+               "src": "/tags",
+               "dest": "/"
+          },
+          {
+               "src": "/categories",
+               "dest": "/"
+          }
+     ]
+}
